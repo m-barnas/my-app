@@ -15,6 +15,25 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+   
+3. Run web
+
+   ```bash
+   bun run web
+   ```
+   
+4. Run android
+
+   ```bash
+    bun run android
+    ```
+   
+5. Run ios
+
+   ```bash
+    bun run ios
+    ```
+   
 
 In the output, you'll find options to open the app in a
 
