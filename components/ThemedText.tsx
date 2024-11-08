@@ -58,6 +58,6 @@ const styles = (scheme: ColorSchemeName) => StyleSheet.create({
   link: {
     lineHeight: 30,
     fontSize: 16,
-    color: Colors[scheme ?? 'light'].link,
+    color: Colors[scheme ?? 'dark'].link,
   },
 });
